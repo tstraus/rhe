@@ -4,4 +4,5 @@ target/
 /public/bundle.js
 package-lock.json
 .idea/
+.vs/
 vscode/
